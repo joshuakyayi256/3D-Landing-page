@@ -31,8 +31,4 @@ open index.html
 ```  
 
 ## **📌 Contributions & Feedback**  
-Feel free to fork, submit PRs, or open issues. Contributions are welcome! 🚀  
-
----
-
-Would you like any modifications to better fit your project? 😊
+Feel free to fork, submit PRs, or open issues. Contributions are welcome! 🚀 
